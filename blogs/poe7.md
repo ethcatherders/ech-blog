@@ -1,6 +1,6 @@
 ---
-title: "Purr-suit of Ethereum 🐾 #6"
-date: 2025-02-10
+title: "Purr-suit of Ethereum 🐾 #7"
+date: 2025-03-03
 author: Pooja Ranjan
 image: https://hackmd.io/_uploads/rJvYaWQjJg.png
 
