@@ -1,4 +1,10 @@
-# ECH DEVCONNECT RECAP
+---
+title: "ECH Devconnect 2025 Recap"
+date: 2025-12-02
+author: Vaelyn Luo
+image: https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/EIP%20Summit%20banner.jpeg
+---
+
 ## Annual Ethereum highlight 
 
 Each year, the Ethereum community hosts an annual event bringing together developers, researchers and the broader ecosystem for a week of deep-dive, topic-focused events. This year is no exception, with the Ethereum’s World Fair at Devconnect, Buenos Aires, Argentina.
