@@ -1,27 +1,25 @@
 ---
-title: "ECH Devconnect 2025 Recap"
+title: "ECH Institute at Devconnect 2025: A Recap"
 date: 2025-12-02
 author: Vaelyn Luo
 image: https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/EIP%20Summit%20banner.jpeg
 ---
 
-## Annual Ethereum highlight 
-
-Each year, the Ethereum community hosts an annual event bringing together developers, researchers and the broader ecosystem for a week of deep-dive, topic-focused events. This year is no exception, with the Ethereum’s World Fair at Devconnect, Buenos Aires, Argentina.
+Each year, the Ethereum community hosts an annual event bringing together developers, researchers and the broader ecosystem for a week of deep-dive, topic-focused events. This year is no exception, with the [Ethereum’s World Fair at Devconnect](https://devconnect.org/), Buenos Aires, Argentina.
 
 This year’s Devconnect was the largest yet, bringing over 20,000 participants from 130 countries, including more than 10,000 Argentinians and 5,000 developers, alongside 79 exhibitors and 200 volunteers, with hundreds of events spread across the city.
 
-For ECH Institute (formerly, Ethereum Cat Herders), Devconnect is an important touchpoint in community building. With the upcoming Fusaka upgrade and our work supporting Ethereum’s EIP and ERC process, Devconnect is a valuable opportunity for us to connect with core developers, client teams, researchers and more importantly, builders.
+For ECH Institute, Devconnect is an important touchpoint in community building. With the upcoming [Fusaka](https://youtube.com/playlist?list=PL4cwHXAawZxoIenfk7OJry4rxcqX-eqBt&si=4UiE3l_Nmyy9Hky1) upgrade and our work supporting Ethereum’s EIP and ERC process, Devconnect is a valuable opportunity for us to connect with core developers, client teams, researchers and more importantly, builders.
 
-At Devconnect, we hosted two events, a Women in Ethereum Protocol networking brunch and the EIP Summit. At the EIP Summit, many of the attendees were researchers (24%) and core developers (15%), followed by app builders (12%) and students (11%). Each of these events connected us with different people in the ecosystem.
+At Devconnect, we hosted two events, a [Women in Ethereum Protocol networking brunch](https://luma.com/el84opau) and the [EIP Summit](https://luma.com/5lwboseu). At the EIP Summit, many of the attendees were researchers (24%) and core developers (15%), followed by app builders (12%) and students (11%). Each of these events connected us with different people in the ecosystem, enriching our community's perspective of the diverse work in the Ethereum ecosystem.
 
 ## WiEP Networking Brunch
 
 ![NetworkingBrunchGroupPhoto](https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/photo_2025-12-02%2004.24.12.jpeg)
 
-Kicking off Devconnect, ECH Institute helped host the Women in Ethereum Protocol (WiEP) [networking brunch](https://luma.com/el84opau) at La Rural.
+Kicking off Devconnect, ECH Institute helped host the [Women in Ethereum Protocol (WiEP) networking brunch](https://luma.com/el84opau) at La Rural.
 
-The morning opened with a “Meet the women behind the protocol” session, giving attendees time to connect informally and learn what others are working on across client teams, contributors and coordination roles. It included sharing sessions from Katya, a core developer and former WiEP Study Group Coordinator, and Mercy, a current Study Group Coordinator. This sharing session was followed by a short opening remark from La Donna and Pooja, who shared an overview of WiEP as an initiative focused on supporting more women and non-binary folks in Ethereum protocol.
+The morning opened with a “Meet the Women behind the Protocol” session, giving attendees time to connect informally and learn what others are working on across client teams, contributors and coordination roles. It included sharing sessions from [Katya](https://x.com/Sib_Katya), a core developer and former WiEP Study Group Coordinator, and [Mercy](https://x.com/naps_thelma), a current WiEP Study Group Coordinator. This sharing session was followed by a short opening remark from La Donna and [Pooja](https://x.com/poojaranjan19), who shared an overview of WiEP as an initiative focused on supporting more women and non-binary folks in Ethereum protocol.
 
 ![NetworkingBrunchMeettheWomen](https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/photo_2025-12-02%2004.24.20.jpeg)
 
@@ -29,12 +27,15 @@ Throughout the brunch, the conversations kept circling back to having peer suppo
 
 The brunch was a nice reunion for existing contributors and newcomers, bridging newcomers with contributors at the core protocol layer.
 
-## EIP Summit at Devconnect
+## EIP Summit - XS Stage, Devconnect
 
 ![EIPSummitBanner](https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/EIP%20Summit%20banner.jpeg) 
-![EIPSummitSpeakers](https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/EIP%20Summit%20speakers.jpeg)
 
 Building on this focus of inclusion and learning, the EIP Summit at Devconnect brought together the people who shaped Ethereum from ideas to protocol improvements. The half-day event traced the lifecycle of an Ethereum Improvement Proposal (EIP), from early research, engaging feedback from the community and EIP/ERC editors, to writing specifications and ensuring mainnet upgrade readiness.
+
+Many of the attendees who joined the EIP Summit had strong interests in the EIP Process and ERC Standards, followed by network upgrades and testing and specs. We were fortunate to have a wide range of speakers that covered different topics.
+
+![EIPSummitSpeakers](https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/EIP%20Summit%20speakers.jpeg)
 
 The Summit opened with a keynote on “EIPs in Motion: From Research to Reality” by [Pooja](https://x.com/poojaranjan19), then moved through tightly scoped talks and lightning sessions with EIP authors, editors, and core developers on their personal journeys and specific proposals.
 
@@ -58,48 +59,63 @@ Taken together, the EIP Summit framed protocol work as a continuum: from individ
 
 ### Missed the EIP Summit at Devconnect?
 
-Catch the full recordings here: 
--  From Research to Reality - An EIP’s Journey with Pooja Ranjan: [https://youtu.be/wH76j1BDZkc](https://youtu.be/wH76j1BDZkc)
-- Don’t just use Ethereum: help shape it! with Jochem Brouwer: [https://youtu.be/ZVHHsKS6Kxo](https://youtu.be/ZVHHsKS6Kxo)
-- From Draft to Inclusion: A proposal’s Journey with Jihoon Song: [https://youtu.be/i8HO-bAivno](https://youtu.be/i8HO-bAivno)
-- From Spec to Sync: Ensuring Upgrade Readiness with Parithosh Jayanthi: [https://youtu.be/9yTrzNCd0Gk](https://youtu.be/9yTrzNCd0Gk)
-- Code is Law: Avoiding Spec-ulation for Faster Forks - Revamping the EIP Review Process with Danceratopz & raxhvl: [https://youtu.be/h5sUMWD9Yus](https://youtu.be/h5sUMWD9Yus)
-- EIP-8007: A major update to EVM gas prices with Maria Inês Silva: [https://youtu.be/HpRNP8tc0lY](https://youtu.be/HpRNP8tc0lY)
-- From Idea to EIP: A First-Time Author’s Journey" with German Abal: [https://youtu.be/WcGYlzUChUE](https://youtu.be/WcGYlzUChUE)
-- ERCs in Focus - ERC-8028: AI Assets On-Chain with Data Anchoring Token (DAT) with Thirumurugan S: [https://youtu.be/RaeBZiE0rDA](https://youtu.be/RaeBZiE0rDA)
-- Meet EIP Editor Sam Wilson: [https://youtu.be/YHZviU19di0](https://youtu.be/YHZviU19di0)
-- ERC-1202: Voting Interface with Victor Zhou: [https://youtu.be/_szGTp49L5E](https://youtu.be/_szGTp49L5E)
+Catch the full recordings from Devconnect here: 
+-  [Full recording of EIP Summit](https://x.com/i/broadcasts/1yNGabmkaMvJj)
+-  [From Research to Reality - An EIP’s Journey with Pooja Ranjan](https://youtu.be/wH76j1BDZkc)
+-  [Don’t just use Ethereum: help shape it! with Jochem Brouwer](https://youtu.be/ZVHHsKS6Kxo)
+-  [From Draft to Inclusion: A proposal’s Journey with Jihoon Song](https://youtu.be/i8HO-bAivno)
+-  [From Spec to Sync: Ensuring Upgrade Readiness with Parithosh Jayanthi](https://youtu.be/9yTrzNCd0Gk)
+-  [Code is Law: Avoiding Spec-ulation for Faster Forks - Revamping the EIP Review Process with Danceratopz & raxhvl](https://youtu.be/h5sUMWD9Yus)
+-  [EIP-8007: A major update to EVM gas prices with Maria Inês Silva](https://youtu.be/HpRNP8tc0lY)
+-  [From Idea to EIP: A First-Time Author’s Journey" with German Abal](https://youtu.be/WcGYlzUChUE)
+-  [ERCs in Focus - ERC-8028: AI Assets On-Chain with Data Anchoring Token (DAT) with Thirumurugan S](https://youtu.be/RaeBZiE0rDA)
+-  [Meet EIP Editor Sam Wilson](https://youtu.be/YHZviU19di0)
+-  [ERC-1202: Voting Interface with Victor Zhou](https://youtu.be/_szGTp49L5E)
 
 ## Podcasts at Devconnect
 Apart from EIP Summit and the WiEP networking brunch, we also recorded several podcasts with builders and core developers in this space. 
 
-- Protocol Pop-Ins with Mike McCabe | 0xbow | Privacy Pools | Devconnect Special 2025: [https://youtu.be/iJjWMJdYqFw](https://youtu.be/iJjWMJdYqFw)
+#### Protocol Pop-Ins with Mike McCabe | 0xbow | Privacy Pools | Devconnect Special 2025
 
-Mike touched on EIP-7503 the burning of ETH and re-minting of ETH to a different wallet address enabling privacy at the base layer. Significantly, he addressed the challenges for building privacy projects such as 0xbow’s [Privacy Pools](https://x.com/0xprivacypools), echoing cautionary tales from [Tornado Cash](https://x.com/TornadoCash) and the opportunities in building compliant-first privacy tools, unlocking privacy for everyday users. 
+<video width="560" height="315" src="https://www.youtube-nocookie.com/embed/iJjWMJdYqFw?si=_go1X9vnHNso9Mca" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></video>
 
-- Protocol Pop-Ins with Lodestar Team | Devconnect Special Podcast with Matthew, Phil & Cayman: [https://youtu.be/aPPV6HhleWQ](https://youtu.be/aPPV6HhleWQ)
+Mike touched on the importance of enabling privacy on Ethereum, for both everyday users and institutions. Significantly, he addressed the challenges for building privacy projects such as 0xbow’s [Privacy Pools](https://x.com/0xprivacypools), echoing cautionary tales from [Tornado Cash](https://x.com/TornadoCash) and the opportunities in building compliant-first privacy tool, unlocking privacy for everyday users and enterprises. 
+
+#### Protocol Pop-Ins with Lodestar Team | Devconnect Special Podcast with Matthew, Phil & Cayman 
+
+<video width="560" height="315" src="https://www.youtube-nocookie.com/embed/aPPV6HhleWQ?si=aMx85KwBr8TzM1tR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></video>
 
 Matt, Phil and Cayman shared real world use cases such as zk-identity implementation in Bhutan and their excitement working in Ethereum, maintaining scale and security for trillions of dollars. They also highlighted the preparations the Lodestar team made for Fusaka upgrade and planning ahead for future forks. 
 
-- Better EIP Reviews with Jochem Brouwer | Devconnect Special | ECH Institute: [https://youtu.be/RQC8yjBnUGw](https://youtu.be/RQC8yjBnUGw)
+#### Better EIP Reviews with Jochem Brouwer | Devconnect Special | ECH Institute
+
+<video width="560" height="315" src="https://www.youtube.com/embed/RQC8yjBnUGw?si=oaGix9uu2uee32bD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></video>
 
 As an EIP Editor, Jochem highlighted the need for more feedback especially for ERC proposals, the importance of raising feedback as soon as possible rather than belatedly at ACD calls.  
 
-- From Hackathon to Devconnect with Thiru ​​| Metis | Devconnect Special Podcast | ECH Institute: [https://youtu.be/yEn-gDIa56I](https://youtu.be/yEn-gDIa56I)
+#### From Hackathon to Devconnect with Thiru ​​| Metis | Devconnect Special Podcast | ECH Institute 
 
-Thiru shared how hackathons shaped his career, get employed and travel around the world. 
+<video width="560" height="315" src="https://www.youtube-nocookie.com/embed/yEn-gDIa56I?si=DhgbID3fAPWsn02G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></video>
 
-## Fusaka files and special last episode with Tomasz Stańczak
+Winning nearly 30 hackathons, Thiru shared how hackathons shaped his career, get employed and travel around the world. He also touched briefly on DAT ERC standard and working at Metis. 
 
-On the final days at Devconnect, we recorded the last episode of the Fusaka files, a short series that focused on Fusaka readiness for enterprises. 
+## Fusaka Files Spotlight: Special last episode with Tomasz Stańczak
 
-Tomasz, the Executive Director at Ethereum Foundation joined the podcast, touching on credible neutrality especially for institutions, the role of Layer 2 solutions and how the Ethereum Foundation through All Core Dev calls enable open and transparent EIP process.
+On the final days at Devconnect, we recorded the last episode of the [Fusaka Files](https://www.youtube.com/playlist?list=PL4cwHXAawZxpz-erUbKKUnnGoQNdF8s7Z), a short series that focused on Fusaka readiness for enterprises. 
+
+[Tomasz](https://x.com/tkstanczak), the Executive Director at Ethereum Foundation joined the podcast, touching on credible neutrality especially for institutions, the role of Layer 2 solutions and how the Ethereum Foundation through All Core Dev calls enable open and transparent EIP process.
 
 Tomasz emphasized the ability for anyone to participate in building Ethereum. 
 
-Check out the episode on [Youtube](https://www.youtube.com/watch?v=FrhTrNPGNCw&list=PL4cwHXAawZxpz-erUbKKUnnGoQNdF8s7Z&index=1)
+<video width="560" height="315" src="https://www.youtube-nocookie.com/embed/FrhTrNPGNCw?si=JUydyVmmh2DXZ-ON" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></video>
+
+Check out the special episode on [Youtube](https://www.youtube.com/watch?v=FrhTrNPGNCw&list=PL4cwHXAawZxpz-erUbKKUnnGoQNdF8s7Z&index=1)!
 
 Check out the rest of the Fusaka Files series [here](https://www.youtube.com/playlist?list=PL4cwHXAawZxpz-erUbKKUnnGoQNdF8s7Z)!
+
+### Thank you to our community!
+
+We would like to thank all community members, speakers and attendees for making Devconnect so special! We hope that everyone has enjoyed their time and made meaningful connections. 
 
 Till next time! 
 
