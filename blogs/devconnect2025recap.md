@@ -19,7 +19,7 @@ At Devconnect, we hosted two events, a [Women in Ethereum Protocol networking br
 
 Kicking off Devconnect, ECH Institute helped host the [Women in Ethereum Protocol (WiEP) networking brunch](https://luma.com/el84opau) at La Rural.
 
-The morning opened with a “Meet the Women behind the Protocol” session, giving attendees time to connect informally and learn what others are working on across client teams, contributors and coordination roles. It included sharing sessions from [Katya](https://x.com/Sib_Katya), a core developer and former WiEP Study Group Coordinator, and [Mercy](https://x.com/naps_thelma), a current WiEP Study Group Coordinator. This sharing session was followed by a short opening remark from La Donna and [Pooja](https://x.com/poojaranjan19), who shared an overview of WiEP as an initiative focused on supporting more women and non-binary folks in Ethereum protocol.
+The morning opened with a “Meet the Women behind the Protocol” session, giving attendees time to connect informally and learn what others are working on across client teams, contributors and coordination roles. It included sharing sessions from [Katya](https://x.com/Sib_Katya), a core developer and former WiEP Study Group Coordinator, and [Mercy](https://x.com/naps_thelma), a current WiEP Study Group Coordinator. This sharing session was followed by a short opening remark from [La Donna](https://x.com/ladonnarhiggins) and [Pooja](https://x.com/poojaranjan19), who shared an overview of WiEP as an initiative focused on supporting more women and non-binary folks in the Ethereum protocol.
 
 ![NetworkingBrunchMeettheWomen](https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/photo_2025-12-02%2004.24.20.jpeg)
 
@@ -27,7 +27,7 @@ Throughout the brunch, the conversations kept circling back to having peer suppo
 
 The brunch was a nice reunion for existing contributors and newcomers, bridging newcomers with contributors at the core protocol layer.
 
-## EIP Summit - XS Stage, Devconnect
+## EIP Summit
 
 ![EIPSummitBanner](https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/EIP%20Summit%20banner.jpeg) 
 
@@ -79,13 +79,13 @@ Apart from EIP Summit and the WiEP networking brunch, we also recorded several p
 
 <video width="560" height="315" src="https://www.youtube-nocookie.com/embed/iJjWMJdYqFw?si=_go1X9vnHNso9Mca" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></video>
 
-Mike touched on the importance of enabling privacy on Ethereum, for both everyday users and institutions. Significantly, he addressed the challenges for building privacy projects such as 0xbow’s [Privacy Pools](https://x.com/0xprivacypools), echoing cautionary tales from [Tornado Cash](https://x.com/TornadoCash) and the opportunities in building compliant-first privacy tool, unlocking privacy for everyday users and enterprises. 
+[Mike McCabe](https://x.com/0xPoolOperator) touched on the importance of enabling privacy on Ethereum, for both everyday users and institutions. Significantly, he addressed the challenges for building privacy projects such as [0xbow](https://youtu.be/hkfD9-M_kpc)’s [Privacy Pools](https://x.com/0xprivacypools), echoing cautionary tales from [Tornado Cash](https://x.com/TornadoCash) and the opportunities in building a compliant-first privacy tool, unlocking privacy for everyday users and enterprises. 
 
 #### Protocol Pop-Ins with Lodestar Team | Devconnect Special Podcast with Matthew, Phil & Cayman 
 
 <video width="560" height="315" src="https://www.youtube-nocookie.com/embed/aPPV6HhleWQ?si=aMx85KwBr8TzM1tR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></video>
 
-Matt, Phil and Cayman shared real world use cases such as zk-identity implementation in Bhutan and their excitement working in Ethereum, maintaining scale and security for trillions of dollars. They also highlighted the preparations the Lodestar team made for Fusaka upgrade and planning ahead for future forks. 
+Matthew, Phil and Cayman shared real-world use cases such as zk-identity implementation in Bhutan and their excitement working in Ethereum, maintaining scale and security for trillions of dollars. They also highlighted the preparations the Lodestar team made for Fusaka upgrade and planning ahead for future forks. 
 
 #### Better EIP Reviews with Jochem Brouwer | Devconnect Special | ECH Institute
 
@@ -113,9 +113,11 @@ Check out the special episode on [Youtube](https://www.youtube.com/watch?v=FrhTr
 
 Check out the rest of the Fusaka Files series [here](https://www.youtube.com/playlist?list=PL4cwHXAawZxpz-erUbKKUnnGoQNdF8s7Z)!
 
-### Thank you to our community!
+### Thank you!
 
 We would like to thank all community members, speakers and attendees for making Devconnect so special! We hope that everyone has enjoyed their time and made meaningful connections. 
+
+Special thanks to our team - [Akash Kshirsagar](https://x.com/lookupforsky), [George Hervey](https://x.com/georgeh0x),  [Vaelyn Luo](https://x.com/Cyph3rVae) & [Pooja Ranja](https://x.com/poojaranjan19) for bringing ECH Institute to Devconnect ARG. 
 
 Till next time! 
 
