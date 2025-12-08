@@ -11,7 +11,7 @@ This year’s Devconnect was the largest yet, bringing over 20,000 participants 
 
 For ECH Institute, Devconnect is an important touchpoint in community building. With the upcoming [Fusaka](https://youtube.com/playlist?list=PL4cwHXAawZxoIenfk7OJry4rxcqX-eqBt&si=4UiE3l_Nmyy9Hky1) upgrade and our work supporting Ethereum’s EIP and ERC process, Devconnect is a valuable opportunity for us to connect with core developers, client teams, researchers and more importantly, builders.
 
-At Devconnect, we hosted two events, a [Women in Ethereum Protocol networking brunch](https://luma.com/el84opau) and the [EIP Summit](https://luma.com/5lwboseu). At the EIP Summit, many of the attendees were researchers (24%) and core developers (15%), followed by app builders (12%) and students (11%). Each of these events connected us with different people in the ecosystem, enriching our community's perspective of the diverse work in the Ethereum ecosystem.
+At Devconnect, we hosted two events, a [Women in Ethereum Protocol networking brunch](https://luma.com/el84opau) and the [EIP Summit](https://luma.com/5lwboseu). At the EIP Summit, many of the attendees were researchers (24%) and core developers (15%), followed by app builders (12%), students (11%) and others (38%). Each of these events connected us with different people in the ecosystem, enriching our community's perspective of the diverse work in the Ethereum ecosystem.
 
 ## WiEP Networking Brunch
 
@@ -34,6 +34,8 @@ The brunch was a nice reunion for existing contributors and newcomers, bridging 
 Building on this focus of inclusion and learning, the EIP Summit at Devconnect brought together the people who shaped Ethereum from ideas to protocol improvements. The half-day event traced the lifecycle of an Ethereum Improvement Proposal (EIP), from early research, engaging feedback from the community and EIP/ERC editors, to writing specifications and ensuring mainnet upgrade readiness.
 
 Many of the attendees who joined the EIP Summit had strong interests in the EIP Process and ERC Standards, followed by network upgrades and testing and specs. We were fortunate to have a wide range of speakers that covered different topics.
+
+![EIPSummitAttendeeProfiles](https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/Demographic%20EIP%20Summit%20registrations.png)
 
 ![EIPSummitSpeakers](https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/EIP%20Summit%20speakers.jpeg)
 
