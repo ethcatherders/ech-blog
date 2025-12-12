@@ -2,7 +2,7 @@
 title: "ECH Institute at Devconnect 2025: A Recap"
 date: 2025-12-02
 author: Vaelyn Luo
-image: https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/Devconnect%Recap%Image.png
+image: https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/Devconnect%20Recap%20Image.png
 ---
 
 Each year, the Ethereum community hosts an annual event bringing together developers, researchers and the broader ecosystem for a week of deep-dive, topic-focused events. This year is no exception, with the [Ethereum’s World Fair at Devconnect](https://devconnect.org/), Buenos Aires, Argentina.
