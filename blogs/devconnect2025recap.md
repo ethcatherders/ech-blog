@@ -2,7 +2,7 @@
 title: "ECH Institute at Devconnect 2025: A Recap"
 date: 2025-12-02
 author: Vaelyn Luo
-image: https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/EIP%20Summit%20banner.jpeg
+image: https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/Devconnect%Recap%Image.png
 ---
 
 Each year, the Ethereum community hosts an annual event bringing together developers, researchers and the broader ecosystem for a week of deep-dive, topic-focused events. This year is no exception, with the [Ethereum’s World Fair at Devconnect](https://devconnect.org/), Buenos Aires, Argentina.
@@ -77,27 +77,27 @@ Catch the full recordings from Devconnect here:
 ## Podcasts at Devconnect
 Apart from EIP Summit and the WiEP networking brunch, we also recorded several podcasts with builders and core developers in this space. 
 
-#### Protocol Pop-Ins with Mike McCabe | 0xbow | Privacy Pools | Devconnect Special 2025
+### Protocol Pop-Ins with Mike McCabe | 0xbow | Privacy Pools | Devconnect Special 2025
 
-<video width="560" height="315" src="https://www.youtube-nocookie.com/embed/iJjWMJdYqFw?si=_go1X9vnHNso9Mca" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></video>
+[![podcast0xbow](https://github.com/user-attachments/assets/214dbc99-dede-46d9-888d-8acfc45a6ccb)](https://www.youtube.com/watch?v=iJjWMJdYqFw&list=PL4cwHXAawZxoPEaPPAMB-fOJgFVmbQeH7&index=5)
 
 [Mike McCabe](https://x.com/0xPoolOperator) touched on the importance of enabling privacy on Ethereum, for both everyday users and institutions. Significantly, he addressed the challenges for building privacy projects such as [0xbow](https://youtu.be/hkfD9-M_kpc)’s [Privacy Pools](https://x.com/0xprivacypools), echoing cautionary tales from [Tornado Cash](https://x.com/TornadoCash) and the opportunities in building a compliant-first privacy tool, unlocking privacy for everyday users and enterprises. 
 
-#### Protocol Pop-Ins with Lodestar Team | Devconnect Special Podcast with Matthew, Phil & Cayman 
+### Protocol Pop-Ins with Lodestar Team | Devconnect Special Podcast with Matthew, Phil & Cayman 
 
-<video width="560" height="315" src="https://www.youtube-nocookie.com/embed/aPPV6HhleWQ?si=aMx85KwBr8TzM1tR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></video>
+[![podcastLodestar](https://github.com/user-attachments/assets/69fa812b-b158-4754-9eb3-249ae3afcdb5)](https://youtu.be/aPPV6HhleWQ?si=K7Obtweufk8r2apE)
 
 Matthew, Phil and Cayman shared real-world use cases such as zk-identity implementation in Bhutan and their excitement working in Ethereum, maintaining scale and security for trillions of dollars. They also highlighted the preparations the Lodestar team made for Fusaka upgrade and planning ahead for future forks. 
 
-#### Better EIP Reviews with Jochem Brouwer | Devconnect Special | ECH Institute
+### Better EIP Reviews with Jochem Brouwer | Devconnect Special | ECH Institute
 
-<video width="560" height="315" src="https://www.youtube.com/embed/RQC8yjBnUGw?si=oaGix9uu2uee32bD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></video>
+[![podcastjochem](https://github.com/user-attachments/assets/b0a5f378-2bd9-44ba-906f-04fd030be1e2)](https://www.youtube.com/embed/RQC8yjBnUGw?si=oaGix9uu2uee32bD)
 
 As an EIP Editor, Jochem highlighted the need for more feedback especially for ERC proposals, the importance of raising feedback as soon as possible rather than belatedly at ACD calls.  
 
-#### From Hackathon to Devconnect with Thiru ​​| Metis | Devconnect Special Podcast | ECH Institute 
+### From Hackathon to Devconnect with Thiru ​​| Metis | Devconnect Special Podcast | ECH Institute 
 
-<video width="560" height="315" src="https://www.youtube-nocookie.com/embed/yEn-gDIa56I?si=DhgbID3fAPWsn02G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></video>
+[![podcastThiru](https://github.com/user-attachments/assets/85513f41-1320-41d7-8705-e6239565ef92)](https://www.youtube-nocookie.com/embed/yEn-gDIa56I?si=DhgbID3fAPWsn02G)
 
 Winning nearly 30 hackathons, Thiru shared how hackathons shaped his career, get employed and travel around the world. He also touched briefly on DAT ERC standard and working at Metis. 
 
@@ -105,11 +105,11 @@ Winning nearly 30 hackathons, Thiru shared how hackathons shaped his career, get
 
 On the final days at Devconnect, we recorded the last episode of the [Fusaka Files](https://www.youtube.com/playlist?list=PL4cwHXAawZxpz-erUbKKUnnGoQNdF8s7Z), a short series that focused on Fusaka readiness for enterprises. 
 
+[![Fusakafiles](https://github.com/user-attachments/assets/c9f89815-b8c1-43df-a716-790e372aceff)](https://www.youtube-nocookie.com/embed/FrhTrNPGNCw?si=rTwrGvFkbPB0CQuC)
+
 [Tomasz](https://x.com/tkstanczak), the Executive Director at Ethereum Foundation joined the podcast, touching on credible neutrality especially for institutions, the role of Layer 2 solutions and how the Ethereum Foundation through All Core Dev calls enable open and transparent EIP process.
 
 Tomasz emphasized the ability for anyone to participate in building Ethereum. 
-
-<video width="560" height="315" src="https://www.youtube-nocookie.com/embed/FrhTrNPGNCw?si=JUydyVmmh2DXZ-ON" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></video>
 
 Check out the special episode on [Youtube](https://www.youtube.com/watch?v=FrhTrNPGNCw&list=PL4cwHXAawZxpz-erUbKKUnnGoQNdF8s7Z&index=1)!
 
