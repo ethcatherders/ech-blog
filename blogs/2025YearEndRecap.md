@@ -1,8 +1,8 @@
 ---
-title: "It's a Wrap: ECH Institute 2025 "
-date: 2025-12-02
+title: "It's a Wrap: ECH Institute 2025"
+date: 2026-1-01
 author: Vaelyn Luo
-image: https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/Devconnect%20Recap%20Image.png
+image: https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/2025RecapImage.png
 ---
 
 ### ECH 2025: Pectra upgrade, Fusaka upgrade, 10 Years of Ethereum celebration, Devconnect, EIP Summit, WiEP, PEEPanEIP and much more!  
