@@ -2,7 +2,7 @@
 title: "How Ethereum Decides What Ships"
 date: 2026-01-27
 author: Akash Kshirsagar & Pooja Ranjan
-image: 
+image: https://github.com/ethcatherders/ech-blog/blob/main/blogs/images/NetworkUpgrade.webp
 ---
 
 ## Inside the EIP-7723 Inclusion Lifecycle  
