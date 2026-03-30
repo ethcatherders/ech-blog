@@ -21,7 +21,7 @@ export async function GET(request: Request) {
     id: siteUrl,
     link: siteUrl,
     language: "en",
-    favicon: `${siteUrl}/favicon.svg`,
+    favicon: `${siteUrl}/ech_full_logo_inverted.png`,
     copyright: `${new Date().getFullYear()}, ECH Institute, Inc.`,
     updated: posts.length > 0 ? posts[0].frontmatter.date : new Date(),
     feedLinks: {
