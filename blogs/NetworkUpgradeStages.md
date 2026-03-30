@@ -2,7 +2,7 @@
 title: "How Ethereum Decides What Ships"
 date: 2026-01-27
 author: Akash Kshirsagar & Pooja Ranjan
-image: https://github.com/ethcatherders/ech-blog/blob/main/blogs/images/NetworkUpgrade.webp
+image: https://raw.githubusercontent.com/ethcatherders/ech-blog/refs/heads/main/blogs/images/NetworkUpgrade.webp
 ---
 
 ## Inside the EIP-7723 Inclusion Lifecycle  
@@ -13,7 +13,7 @@ For years, selecting which changes make it into an Ethereum network upgrade (“
 
 At its core, EIP-7723 makes the upgrade process more legible for both contributors and the broader community.
 
-<iframe width="560" height="315" src="https://youtu.be/-S4blFZl28g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-S4blFZl28g?si=YIy9BjMfuIOPvxMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## The Problem: “Included” or “Unknown”
 
