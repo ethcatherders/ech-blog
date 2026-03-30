@@ -2,19 +2,26 @@ import { Feed } from "feed";
 import { marked } from "marked";
 
 import { getAllPosts } from "@/lib/blog";
+import { siteConfig } from "@/config/site";
 
-export async function GET() {
+// Force dynamic rendering to ensure feed updates with new posts
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
+
+export async function GET(request: Request) {
   const posts = await getAllPosts();
-  const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://blog.ethcatherders.com/";
+  
+  // Get the current request URL to handle both localhost and production
+  const requestUrl = new URL(request.url);
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ? siteConfig.url : `${requestUrl.protocol}//${requestUrl.host}`;
 
   const feed = new Feed({
-    title: "Ethereum Cat Herders",
-    description: "The official blog of the Ethereum Cat Herders",
+    title: "ECH Institute Blog",
+    description: "The official blog of the ECH Institute. Herding Knowledge, Building Community, Homesteading Ethereum!",
     id: siteUrl,
     link: siteUrl,
     language: "en",
-    favicon: `${siteUrl}/favicon.ico`,
+    favicon: `${siteUrl}/favicon.svg`,
     copyright: `${new Date().getFullYear()}, ECH Institute, Inc.`,
     updated: posts.length > 0 ? posts[0].frontmatter.date : new Date(),
     feedLinks: {
@@ -40,7 +47,7 @@ export async function GET() {
       ],
       image: frontmatter.image
         ? {
-            url: frontmatter.image,
+            url: new URL(frontmatter.image, siteUrl).toString(),
           }
         : undefined,
       description:
@@ -49,9 +56,25 @@ export async function GET() {
     });
   }
 
-  return new Response(feed.rss2(), {
+  let xmlContent = feed.rss2();
+
+  // Inject XSLT stylesheet reference for better browser display
+  // This makes the RSS feed readable in browsers instead of showing raw XML
+  const xsltStylesheet = `<?xml-stylesheet type="text/xsl" href="${siteUrl}/feed-stylesheet.xsl"?>`;
+  
+  // Insert the stylesheet reference right after the XML declaration
+  if (xmlContent.startsWith('<?xml')) {
+    const firstLineEnd = xmlContent.indexOf('?>') + 2;
+    xmlContent = xmlContent.slice(0, firstLineEnd) + '\n' + xsltStylesheet + xmlContent.slice(firstLineEnd);
+  } else {
+    xmlContent = xsltStylesheet + '\n' + xmlContent;
+  }
+
+  return new Response(xmlContent, {
     headers: {
       "Content-Type": "application/xml; charset=utf-8",
+      "Cache-Control": "public, s-maxage=3600, stale-while-revalidate=86400",
+      "X-Content-Type-Options": "nosniff",
     },
   });
 }
