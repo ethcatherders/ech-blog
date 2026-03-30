@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowLeftIcon, Search } from "lucide-react";
+import { ArrowLeftIcon } from "lucide-react";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -28,10 +28,10 @@ export default function NotFound() {
         {/* Messaging */}
         <div className="space-y-3 sm:space-y-4 max-w-lg mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold font-antonio text-gray-900 dark:text-gray-100">
-            Looks like you've drifted into the ether.
+            Looks like you&apos;ve drifted into the ether.
           </h2>
           <p className="text-base sm:text-lg text-gray-600 dark:text-gray-400 font-roboto leading-relaxed">
-            The page you're searching for might have been moved, renamed, or temporarily unavailable. 
+            The page you&apos;re searching for might have been moved, renamed, or temporarily unavailable. 
           </p>
         </div>
 
