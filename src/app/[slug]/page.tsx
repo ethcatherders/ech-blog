@@ -9,6 +9,7 @@ import { shouldUnoptimizeImage } from '@/lib/image-utils';
 import { IPFSImage } from '@/components/shared/images/IPFSImage';
 import { UnoptimizedImage } from '@/components/shared/images/UnoptimizedImage';
 import { siteConfig } from '@/config/site';
+import { Button } from '@/components/ui/button';
 
 const siteUrl = siteConfig.url;
 
@@ -276,12 +277,12 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         <main className='flex flex-col w-full max-w-4xl mx-auto mt-4 sm:mt-6 md:mt-8 lg:mt-12 px-4 sm:px-6 md:px-8'>
           {/* SEO: Semantic navigation element */}
           <nav aria-label="Breadcrumb navigation" className="mb-4 sm:mb-6">
-            <Link href='/' className='text-blue-600 hover:text-blue-700' aria-label="Return to blog homepage">
-              <div className='flex items-center gap-2 text-sm sm:text-base'>
+            <Button variant="outline" size="sm" asChild className="rounded-full shadow-sm hover:shadow-md transition-all">
+              <Link href='/' aria-label="Return to blog homepage" className="flex items-center gap-2">
                 <ArrowLeftIcon className='w-4 h-4' aria-hidden="true" />
                 <span>Back to all blogs</span>
-              </div>
-            </Link>
+              </Link>
+            </Button>
           </nav>
           {frontmatter.image && (
             <div className="relative w-full mt-4 sm:mt-5 md:mt-6 rounded-lg bg-gray-100 dark:bg-gray-800 overflow-hidden">

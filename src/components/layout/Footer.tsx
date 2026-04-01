@@ -47,7 +47,7 @@ export function Footer() {
                 ECH Institute
               </Link>
               <p className="text-xs sm:text-sm text-muted-foreground max-w-md">
-                Herding Knowledge, Building Community, Homesteading Ethereum!
+                Education, Community, Homesteading!
               </p>
             </div>
 

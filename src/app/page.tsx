@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import { ArrowLeftIcon } from "lucide-react";
 import type { Metadata } from "next";
 import { getAllPosts } from "@/lib/blog";
 import { shouldUnoptimizeImage } from "@/lib/image-utils";
@@ -7,6 +8,7 @@ import { IPFSImage } from "@/components/shared/images/IPFSImage";
 import { UnoptimizedImage } from "@/components/shared/images/UnoptimizedImage";
 import { AllPostsSection } from "@/components/features/blog/AllPostsSection";
 import { siteConfig } from "@/config/site";
+import { Button } from "@/components/ui/button";
 
 const siteUrl = siteConfig.url;
 
@@ -146,13 +148,27 @@ export default async function Home() {
       <div className="px-4 py-6 pb-16 sm:px-6 sm:py-8 md:px-8 md:py-12 lg:px-12 lg:py-16 xl:px-20 xl:py-20 font-roboto">
         {/* SEO: Semantic HTML5 main element */}
         <main className="max-w-4xl mx-auto">
-          {/* SEO: Semantic header element */}
-          <header className="mb-8 sm:mb-12 md:mb-16 text-center">
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-2 sm:mb-3 md:mb-4 font-antonio">ECH Institute Blog</h1>
-            <p className="text-sm sm:text-base md:text-lg text-gray-600 dark:text-gray-400 px-2">
-              Official Blog of the ECH Institute
-            </p>
-          </header>
+        {/* SEO: Semantic header element */}
+        <header className="mb-8 sm:mb-12 md:mb-16 text-center">
+          <div className="relative flex items-center justify-center">
+            <div className="absolute left-0 flex items-center">
+              <Button variant="outline" size="sm" asChild className="rounded-full shadow-sm hover:shadow-md transition-all">
+                <Link 
+                  href="https://echinstitute.org" 
+                  aria-label="Back to main ECH Institute website"
+                  className="flex items-center gap-1.5"
+                >
+                  <ArrowLeftIcon className="w-4 h-4 transition-transform group-hover:-translate-x-1" />
+                  <span className="hidden sm:inline">Main Website</span>
+                </Link>
+              </Button>
+            </div>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold font-antonio">ECH Institute Blog</h1>
+          </div>
+          <p className="mt-2 text-sm sm:text-base md:text-lg text-gray-600 dark:text-gray-400 px-2">
+            Official Blog of the ECH Institute
+          </p>
+        </header>
 
         {/* SEO: Semantic section element for latest posts */}
         <section className="mb-8 sm:mb-12 md:mb-16" aria-label="Latest blog posts">

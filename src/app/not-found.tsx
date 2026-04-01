@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { ArrowLeftIcon } from "lucide-react";
+import { Button } from "@/components/ui/button";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -37,13 +38,12 @@ export default function NotFound() {
 
         {/* Action Buttons */}
         <div className="pt-4 flex flex-col items-center justify-center">
-          <Link 
-            href="/" 
-            className="group relative inline-flex items-center justify-center gap-2 px-6 py-3 text-sm sm:text-base font-semibold text-gray-900 transition-all duration-200 bg-white border border-gray-300 dark:border-gray-600 rounded-full hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-200 shadow-sm hover:shadow-md"
-          >
-            <ArrowLeftIcon className="w-4 h-4 transition-transform duration-200 group-hover:-translate-x-1" />
-            Back to Blog Homepage
-          </Link>
+          <Button variant="outline" asChild className="rounded-full shadow-sm hover:shadow-md transition-all">
+            <Link href="/" className="flex items-center gap-2">
+              <ArrowLeftIcon className="w-4 h-4 transition-transform duration-200 group-hover:-translate-x-1" />
+              Back to Blog Homepage
+            </Link>
+          </Button>
         </div>
       </div>
     </div>
