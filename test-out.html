@@ -1,0 +1,76 @@
+<h2>Inside the EIP-7723 Inclusion Lifecycle</h2>
+<p>For years, selecting which changes make it into an Ethereum network upgrade (“hard fork”) was a complex and often ad-hoc process. With nearly ten client teams coordinating implementations, the absence of formal inclusion stages led to duplicated effort, wasted development cycles, and coordination friction.</p>
+<p><strong><a href="https://eips.ethereum.org/EIPS/eip-7723">EIP-7723</a></strong>, authored by Tim Beiko and Alex Stokes, formalizes how Ethereum Improvement Proposals (EIPs) move through upgrade planning. It introduces clearer signaling, stronger prioritization, and more predictable coordination across the ecosystem.</p>
+<p>At its core, EIP-7723 makes the upgrade process more legible for both contributors and the broader community.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-S4blFZl28g?si=YIy9BjMfuIOPvxMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h2>The Problem: “Included” or “Unknown”</h2>
+<p>Historically, Ethereum governance lacked granular indicators of proposal maturity. There was effectively one meaningful state - <strong>“Included”</strong>.</p>
+<p>Without intermediate stages:</p>
+<ul>
+<li>Developers reviewed dozens of proposals simultaneously.  </li>
+<li>It was difficult to distinguish early ideas from implementation-ready work.  </li>
+<li>Coordination across client teams became inefficient.</li>
+</ul>
+<p>As Tim Beiko notes, deploying an EIP to mainnet is high-stakes because <strong>“the blockchain has to keep it forever.”</strong> Clear staging improves safety and decision quality.</p>
+<h2>The Solution: The EIP-7723 Inclusion Lifecycle</h2>
+<p>EIP-7723 defines five stages that apply to a single network upgrade. Together, they form a pipeline that progressively filters proposals from ideas into production-ready protocol changes.</p>
+<h3>Inclusion Stages Overview</h3>
+<table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>Description</th>
+<th>Criteria</th>
+<th>Signals</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Proposed for Inclusion</strong></td>
+<td>Authors propose an EIP by opening a pull request to add it to the upgrade’s Meta EIP.</td>
+<td>EIP is merged in <strong>Draft</strong> status.</td>
+<td>• Community interest only<br>• No implementation commitment<br>• Must be re-submitted if declined</td>
+</tr>
+<tr>
+<td><strong>Considered for Inclusion (CFI)</strong></td>
+<td>Client teams agree the proposal is technically viable and worth advancing.</td>
+<td>Proposal reviewed and accepted for further exploration.</td>
+<td>• Concept acknowledgment<br>• Expected in future upgrade devnets<br>• Not a guarantee of mainnet inclusion</td>
+</tr>
+<tr>
+<td><strong>Scheduled for Inclusion (SFI)</strong></td>
+<td>Client developers commit to implementation and devnet testing.</td>
+<td>Python implementation and tests exist in <code>execution-specs</code>.</td>
+<td>• Active implementation underway<br>• High confidence of shipping unless blockers arise<br>• Added to devnet specifications</td>
+</tr>
+<tr>
+<td><strong>Included</strong></td>
+<td>Applied retroactively after successful mainnet activation.</td>
+<td>Upgrade successfully activated on mainnet.</td>
+<td>• Feature live in production<br>• Meta EIP retains only the Included list</td>
+</tr>
+<tr>
+<td><strong>Declined for Inclusion</strong></td>
+<td>Client developers remove the EIP from the current upgrade.</td>
+<td>Decision to defer from the current cycle.</td>
+<td>• Work pauses for the cycle<br>• Focus shifts to higher priorities<br>• May return in future upgrades</td>
+</tr>
+</tbody></table>
+<h2>The Role of Devnets</h2>
+<p><strong>Upgrade devnets</strong> validate client interoperability before mainnet deployment.</p>
+<p>The CFI → SFI transition aligns proposals with devnet readiness:</p>
+<ul>
+<li><strong>Sequencing:</strong> SFI defines devnet priorities.  </li>
+<li><strong>Risk control:</strong> Only mature proposals should enter devnets to avoid churn and instability.</li>
+</ul>
+<h2>Broader Governance Improvements</h2>
+<p>Meeting structure now supports this lifecycle:</p>
+<ul>
+<li><strong>ACDE / ACDC:</strong> Strategy and upgrade scope  </li>
+<li><strong>ACDT:</strong> Implementation, devnets, and testing</li>
+</ul>
+<p>This separation improves signal quality and reduces coordination noise.</p>
+<h2>Conclusion</h2>
+<p>EIP-7723 represents a maturation of Ethereum governance. By clearly separating exploration from commitment, client teams can narrow hundreds of proposals into a safe, deployable set.</p>
+<p>As Tim summarizes, the process emphasizes <strong>“the quality of the decision rather than the quantity.”</strong> The result is a more predictable, transparent, and resilient upgrade pipeline for the ecosystem.</p>
+<p>Learn more with <a href="https://youtu.be/Ay6-RywzZQg">PEEPanEIP-7723</a>.</p>
