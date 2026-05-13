@@ -2,7 +2,7 @@
 title: "Commemorative NFT for EIP Authors of Pectra Upgrade"
 date: 2025-02-24
 author: George Hervey
-image: https://ipfs.io/ipfs/bafybeid2ssq2hlkxfs7dsncgdvp4mysre2cbzi3u4fkln7moq33xbt4auq
+image: /images/Commemorative-NFT-for-EIP-Authors-of-Pectra-Upgrade.webp
 ---
 
 We're excited to announce the launch of a special commemorative NFT, designed to express our gratitude to EIP authors who have contributed to the Ethereum ecosystem and have at least one of their EIPs included in the latest upcoming Ethereum network upgrade.
@@ -26,7 +26,7 @@ As per [EIP-7600: Hardfork Meta - Pectra](https://eips.ethereum.org/EIPS/eip-760
 
 If you are an **EIP author** of any of the above proposals, **you’re eligible to claim your commemorative NFT** at:
 
-🔗 **[Claim your NFT here](https://www.ethcatherders.com/upgrades/pectra)**
+🔗 **[Claim your NFT here](https://echinstitute.org/upgrades/pectra)**
 
 
 
@@ -44,4 +44,4 @@ This **limited-edition NFT** is a small way to **celebrate your efforts** and **
 📺 Watch A Paw-some Video - [Preparing for Pectra](https://youtu.be/5pMkHeG-lC0)  
 
 🔗 Follow Ethereum Cat Herders on:  
-🌐 [Website](https://www.ethcatherders.com) | 🐙 [GitHub](https://github.com/ethereum-cat-herders) | 🐦 [Twitter](https://twitter.com/EthCatHerders) | ✍️ [Medium](https://medium.com/ethereum-cat-herders) | 📺 [YouTube](https://www.youtube.com/c/EthereumCatHerders)
+🌐 [Website](https://echinstitute.org) | 🐙 [GitHub](https://github.com/ethereum-cat-herders) | 🐦 [Twitter](https://twitter.com/EthCatHerders) | ✍️ [Medium](https://medium.com/ethereum-cat-herders) | 📺 [YouTube](https://www.youtube.com/c/EthereumCatHerders)
